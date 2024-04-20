@@ -34,6 +34,7 @@
 
 ## PHP Ajax Select To Table
 
+![Screenshot (361)](https://github.com/Ajij120386/PHP-Ajax-Practise/assets/66430791/cfd21bf0-1e89-4146-abdd-9954277f1788)
 
 ![Screenshot (358)](https://github.com/Ajij120386/PHP-Ajax-Practise/assets/66430791/2e7386a9-c804-41f4-9e49-a2e643ee8b51)
 ![Screenshot (359)](https://github.com/Ajij120386/PHP-Ajax-Practise/assets/66430791/1328a250-4143-46cf-a29c-b0717e38069f)
